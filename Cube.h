@@ -2,7 +2,7 @@
 #define CUBE
 
 #include <iostream>
-#include "Renderer.h"
+#include <Renderer.h>
 #include "Vector.h"
 
 class Renderer;
