@@ -1,8 +1,10 @@
 #include <iostream>
-
+#include "Renderer.h"
 using namespace std;
 
 int main(){
-    cout << "test one";
+    Renderer r;
+    cin.get();
+    return 0;
     return 0;
 }
